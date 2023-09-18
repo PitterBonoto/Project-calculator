@@ -14,4 +14,4 @@
 <h5>O vídeo abaixo mostra a aplicação sendo executada, onde o usuárioo realiza contas na calculadora a partir do seu teclado.</h5>
 <br>
 
-<img src="https://github.com/PitterBonoto/Project-dev-drawer/blob/main/assets/gif-dev-drawer.gif?raw=true">
+<img src="https://github.com/PitterBonoto/Project-calculator/blob/main/assets/calculadora-readme.gif?raw=true">
