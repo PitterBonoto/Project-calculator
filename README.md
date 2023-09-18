@@ -1,7 +1,7 @@
 <h1>Calculator</h1> 
 <br>
 
-<h3>Este foi um projeto pessoal desenvolvido com o intuito de praticar tecnologias estudadas, bem como pesquisare utilizar novas ferramentas, novas possibilidades dentro do JavaScript.</h3>
+<h3>Este foi um projeto pessoal desenvolvido com o intuito de praticar tecnologias estudadas, bem como pesquisar e utilizar novas ferramentas e novas possibilidades dentro do JavaScript.</h3>
 <h6>O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, tendo como finalidade desenvolver uma calculadora básica utilizando ferramentas como o "eval" para realizar calculos a partir de strings montadas pelo usuário atrávés do teclado da aplicação.</h6>
 <br>
 <h3>Tecnologias utilizadas: </h3>
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<h5>O vídeo abaixo mostra a aplicação sendo executada, onde o usuárioo realiza contas na calculadora a partir do seu teclado.</h5>
+<h5>O vídeo abaixo mostra a aplicação sendo executada, onde o usuárioo realiza contas na calculadora a partir do teclado da mesma.</h5>
 <br>
 
 <img src="https://github.com/PitterBonoto/Project-calculator/blob/main/assets/calculadora-readme.gif?raw=true">
