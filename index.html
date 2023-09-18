@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap" rel="stylesheet">
+    
+</head>
+
+<body>
+    <main>
+        <h1 class="logo">Calculator</h1>
+
+        <header>
+            <p class="display"></p>
+        </header>
+
+        <button id="clickedClean" onclick="clickedClean()"> C </button>
+
+        <section>
+
+            <button class="buttonsNumber" id="clicked7" onclick="insert(7)"> 7 </button>
+            <button class="buttonsNumber" id="clicked8" onclick="insert(8)"> 8 </button>
+            <button class="buttonsNumber" id="clicked9" onclick="insert(9)"> 9 </button>
+            <button id="clickedDiv" onclick="insert('/')"> / </button>
+            <button class="buttonsNumber" id="clicked4" onclick="insert(4)"> 4 </button>
+            <button class="buttonsNumber" id="clicked5" onclick="insert(5)"> 5 </button>
+            <button class="buttonsNumber" id="clicked6" onclick="insert(6)"> 6 </button>
+            <button id="clickedMult" onclick="insert('*')"> x </button>
+            <button class="buttonsNumber" id="clicked1" onclick="insert(1)"> 1 </button>
+            <button class="buttonsNumber" id="clicked2" onclick="insert(2)"> 2 </button>
+            <button class="buttonsNumber" id="clicked3" onclick="insert(3)"> 3 </button>
+            <button id="clickedSub" onclick="insert('-')"> - </button>
+            <button class="buttonsNumber" id="clicked0" onclick="insert(0)"> 0 </button>
+            <button class="buttonsNumber" id="clickedPoint" onclick="insert('.')"> . </button>
+            <button id="clickedResult" onclick="clickedResult()"> = </button>
+            <button id="clickedSum" onclick="insert('+')"> + </button>
+
+        </section>
+    </main>
+</body>
+<script src="./scripts.js"></script>
+
+</html>
